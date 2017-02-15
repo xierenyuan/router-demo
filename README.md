@@ -8,7 +8,7 @@ yarn install
 npm start
 ```
 
-## 运行记录
+## 操作步骤
 
 >当然最简单的是 使用 vue 官方提供的脚手架[vue-cli](https://github.com/vuejs/vue-cli)
 
