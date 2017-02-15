@@ -20,7 +20,7 @@ yarn add opn -D
 // 安装基础包
 yarn add vue vue-router
 
-// 写webpack 配置 见 webpack.config.babel.js
+// 写webpack 配置 见 webpack.config.js
 
 //编写测试demo
 访问
